@@ -2,4 +2,4 @@
 ~$*.xlsx
 
 # Ignore output directory (optional, if not needed in the repo)
-output/
+#output/
